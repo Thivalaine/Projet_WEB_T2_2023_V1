@@ -1,6 +1,4 @@
-[
   {
-    "type": "FeatureCollection",
     "features": [
       {
         "type": "Feature",
@@ -57,7 +55,7 @@
           ]
         },
         "properties": {
-          "name": "Le temple d\'Artemis",
+          "name": "Le temple d'Artemis",
           "description": "",
           "image": ""
         }
@@ -109,4 +107,3 @@
       }
     ]
   }
-]
