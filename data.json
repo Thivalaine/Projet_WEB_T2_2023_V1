@@ -104,6 +104,21 @@
           "description": "",
           "image": ""
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            48.866667,
+            2.333333
+          ]
+        },
+        "properties": {
+          "name": "Paris",
+          "description": "",
+          "image": ""
+        }
       }
     ]
   }
